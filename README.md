@@ -7,7 +7,9 @@ PROTOTYPE METHOD + ENVIRONMENT
 This prototype is implemented as a stand‑alone web application using:
 
 1 HTML5 and JavaScript as the Front End.
+
 2 Java
+
 3 Clothing API (https://rapidapi.com/collection/clothing-api)
 
 ARCHITECTURE DIAGRAM
