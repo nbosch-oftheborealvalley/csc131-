@@ -3,12 +3,15 @@ LexiSearch is a modular search engine designed for an online clothing store. Lex
 This prototype demonstrates the core front‑end interface, basic search interactions, filtering/sorting tools, the LegendKey vocabulary guide, and administrator product management.
 
 PROTOTYPE METHOD + ENVIRONMENT
+
 This prototype is implemented as a stand‑alone web application using:
+
 1 HTML5 and JavaScript as the Front End.
 2 Java
 3 Clothing API (https://rapidapi.com/collection/clothing-api)
 
 ARCHITECTURE DIAGRAM
+
 1 User Interface (HTML)
 - Customer actions: search, filter, sort, view details, add to cart
 - Administrator actions: add products, manage inventory, manage keywords
