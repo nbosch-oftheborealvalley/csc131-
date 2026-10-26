@@ -36,6 +36,7 @@ ARCHITECTURE DIAGRAM
 - Orders
 
 PROTOTYPE COMPONENTS
+
 1 Customer Interface
 - Search bar
 - Keyword suggestions
