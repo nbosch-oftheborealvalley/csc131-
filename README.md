@@ -1,10 +1,10 @@
-// PROJECT INFORMATION
+# /PROJECT INFORMATION/
 
 LexiSearch is a modular search engine designed for an online clothing store. LexiSearch introduces a structured vocabulary unique to other traditional keyword‑only search systems called "search words", allowing customers to search using precise attributes, such as clothing type, color, size, brand, style, and price. Administrators can manage products, inventory, and keyword vocabulary through a dedicated admin interface.
 
 This prototype demonstrates the core front‑end interface, basic search interactions, filtering/sorting tools, the LegendKey vocabulary guide, and administrator product management.
 
-// ARCHITECTURE DIAGRAM
+# /ARCHITECTURE DIAGRAM/
 
 # 1 User Interface (Front End: HTML)
 - Customer actions: search, filter, sort, view details, add to cart
@@ -29,7 +29,7 @@ This prototype demonstrates the core front‑end interface, basic search interac
 
 The architecture diagram is included in the repository as: Architecture.png
 
-// DEVELOPMENT TOOLS
+# /DEVELOPMENT TOOLS/
 
 # 1 Visual Studio Code
 Coding environment for JavaScript and HTML
